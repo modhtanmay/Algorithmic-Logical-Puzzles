@@ -2,7 +2,7 @@
 
 The below puzzles provides you a fun way to "invent" the key ideas on your own! Even if you fail to solve some puzzles, the time will not be lost as you will better appreciate the beauty and power of the underlying ideas.
 
-## Logic Puzzles List
+## Logic Puzzles List:-
 
 1.  [Bishops](http://dm.compsciclub.ru/app/quiz-n-bishops)
 2.  [Rooks](http://dm.compsciclub.ru/app/quiz-n-rooks)
