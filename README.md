@@ -1,6 +1,6 @@
 # ALGORITHMIC LOGIC PUZZLES
 
-They provide you with a fun way to "invent" the key ideas on your own! Even if you fail to solve some puzzles, the time will not be lost as you will better appreciate the beauty and power of the underlying ideas
+The below puzzles provides you a fun way to "invent" the key ideas on your own! Even if you fail to solve some puzzles, the time will not be lost as you will better appreciate the beauty and power of the underlying ideas.
 
 ## Logic Puzzles List
 
